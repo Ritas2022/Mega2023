@@ -1,0 +1,16 @@
+.active {
+  pointer-events: none;
+  color: #aaa;
+}
+
+.loto {
+  color: #930089;
+}
+
+.mega {
+  color: #209869;
+}
+
+.quina {
+  color: #260085;
+}
